@@ -71,3 +71,28 @@ button{
     max-width: 400px;
     height: auto;
 }
+
+.section-2 {
+    margin-bottom: 50px;
+}
+
+.title{
+    text-align: center;
+    padding: 50px;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    text-align: center;
+    align-items: center;
+}
+
+.container img {
+    max-width: auto;
+    height: 125px;
+    padding: 5px;
+}
